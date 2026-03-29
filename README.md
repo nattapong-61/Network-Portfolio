@@ -11,16 +11,6 @@ Email : nattapong.g@kkumail.com
 
 ## 🚀 Final Project
 
-### 🌄 High Mountain Networks  
-**Project Repository:**  
-
----
-
-## 💻 Network Programming (Week 1–10)
-
-**Repository:**  
-[🔗 View Repository](https://github.com/Nattha-nan/NetworkWeek.git)
-
 ---
 
 ## 📄 Personal Assignment
@@ -50,7 +40,8 @@ Email : nattapong.g@kkumail.com
 
 **Course:** Pre1 Computer Networks – Getting Started with Cisco Packet Tracer  
 
-![Certificate](your-image-link-here)
+![Certificate](<img width="988" height="669" alt="image" src="https://github.com/user-attachments/assets/3c4b0228-f96d-48c3-9591-e799141a7419" />
+)
 
 ---
 
