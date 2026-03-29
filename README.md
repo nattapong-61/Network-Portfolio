@@ -15,8 +15,8 @@ Email : nattapong.g@kkumail.com
 
 ## 📄 Personal Assignment
 
-| Assignment | Document Link | PDF File |
-|-----------|--------------|----------|
+| Assignment | Document Link |
+|-----------|--------------|
 | Essay | [View](https://docs.google.com/document/d/1ix3R1YoyDwkMH_A4NKqZJos0SgsGwqqBDaHsHzhZkSY/edit?usp=sharing) |
 | Assignment 2 (Topology) | [View](https://docs.google.com/document/d/1Xj20TpXkZZ-yTFvr5DVvn-SacLfvzrLXh0vgtKsh8_A/edit?usp=sharing) |
 | Assignment 3 (Not Simple) | [View](https://docs.google.com/document/d/1qnItMPN-4Pi0rt1J3715s4QFb-d9k3Xq0raOQ4N9XnQ/edit?usp=sharing) |
@@ -26,8 +26,8 @@ Email : nattapong.g@kkumail.com
 
 ## 🧪 Labs (1–5)
 
-| Lab | Document Link | PDF File |
-|-----|--------------|----------|
+| Lab | Document Link |
+|-----|--------------|
 | Lab 1 | [View](https://docs.google.com/document/d/1DwWLAxHNynNA5J4AkVxALZkkimt_xLyojNH5TJPcgrA/edit?usp=sharing) |
 | Lab 2 | [View](https://docs.google.com/document/d/18n95qmyW5_QKc7J47pIzR779M92ajxv-LmiuJoqeS54/edit?usp=sharing) |
 | Lab 3 | [View](https://docs.google.com/document/d/1AWaSDerHw_D2jv64LoDjY9oQH7QFHZxg_DHghqXy5Iw/edit?usp=sharing) |
@@ -40,7 +40,7 @@ Email : nattapong.g@kkumail.com
 
 **Course:** Pre1 Computer Networks – Getting Started with Cisco Packet Tracer  
 
-![Certificate](<img width="988" height="669" alt="Screenshot 2026-03-29 222112" src="https://github.com/user-attachments/assets/2f500a57-41d4-4050-91cc-866653fbd499" />)
+![Certificate]()
 
 
 ---
