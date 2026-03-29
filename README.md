@@ -11,6 +11,8 @@ Email : nattapong.g@kkumail.com
 
 ## 🚀 Final Project
 
+https://drive.google.com/drive/folders/1i_OhlgE11zJG3P4IjCNy8UzWbME6L5KD?usp=sharing
+
 ---
 
 ## 📄 Personal Assignment
@@ -40,7 +42,7 @@ Email : nattapong.g@kkumail.com
 
 **Course:** Pre1 Computer Networks – Getting Started with Cisco Packet Tracer  
 
-![Certificate]()
+![Certificate](certificate.png)
 
 
 ---
