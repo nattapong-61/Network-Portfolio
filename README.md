@@ -40,8 +40,8 @@ Email : nattapong.g@kkumail.com
 
 **Course:** Pre1 Computer Networks – Getting Started with Cisco Packet Tracer  
 
-![Certificate]([Getting_Started_with_Cisco_Packet_Tracer_certificate_nattapong-g-kkumail-com_664f5436-7214-478e-b18c-5cb3e852dccb (1).pdf](https://github.com/user-attachments/files/26332594/Getting_Started_with_Cisco_Packet_Tracer_certificate_nattapong-g-kkumail-com_664f5436-7214-478e-b18c-5cb3e852dccb.1.pdf)
-)
+![Certificate](<img width="988" height="669" alt="Screenshot 2026-03-29 222112" src="https://github.com/user-attachments/assets/2f500a57-41d4-4050-91cc-866653fbd499" />)
+
 
 ---
 
