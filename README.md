@@ -13,7 +13,6 @@ Email : nattapong.g@kkumail.com
 
 ### 🌄 High Mountain Networks  
 **Project Repository:**  
-[🔗 View Project](https://github.com/Nattha-nan/High-Mountain-Network.git)
 
 ---
 
@@ -28,10 +27,10 @@ Email : nattapong.g@kkumail.com
 
 | Assignment | Document Link | PDF File |
 |-----------|--------------|----------|
-| Essay | [View](#) | [PDF](#) |
-| Assignment 2 (Topology) | [View](#) | [PDF](#) |
-| Assignment 3 (Not Simple) | [View](#) | [PDF](#) |
-| Assignment 4 (TCP-UDP) | [View](#) | [PDF](#) |
+| Essay | [View](https://docs.google.com/document/d/1ix3R1YoyDwkMH_A4NKqZJos0SgsGwqqBDaHsHzhZkSY/edit?usp=sharing) |
+| Assignment 2 (Topology) | [View](https://docs.google.com/document/d/1Xj20TpXkZZ-yTFvr5DVvn-SacLfvzrLXh0vgtKsh8_A/edit?usp=sharing) |
+| Assignment 3 (Not Simple) | [View](https://docs.google.com/document/d/1qnItMPN-4Pi0rt1J3715s4QFb-d9k3Xq0raOQ4N9XnQ/edit?usp=sharing) |
+| Assignment 4 (TCP-UDP) | [View](https://docs.google.com/document/d/1Hh0BoJTWSq_3GOx9M2MRKap7qGlYfwlQouAtwDVdk2E/edit?usp=sharing) |
 
 ---
 
@@ -39,11 +38,11 @@ Email : nattapong.g@kkumail.com
 
 | Lab | Document Link | PDF File |
 |-----|--------------|----------|
-| Lab 1 | [View](https://docs.google.com/document/d/1DwWLAxHNynNA5J4AkVxALZkkimt_xLyojNH5TJPcgrA/edit?usp=sharing) | [PDF](#) |
-| Lab 2 | [View](#) | [PDF](#) |
-| Lab 3 | [View](#) | [PDF](#) |
-| Lab 4 | [View](#) | [PDF](#) |
-| Lab 5 | [View](#) | [PDF](#) |
+| Lab 1 | [View](https://docs.google.com/document/d/1DwWLAxHNynNA5J4AkVxALZkkimt_xLyojNH5TJPcgrA/edit?usp=sharing) |
+| Lab 2 | [View](https://docs.google.com/document/d/18n95qmyW5_QKc7J47pIzR779M92ajxv-LmiuJoqeS54/edit?usp=sharing) |
+| Lab 3 | [View](https://docs.google.com/document/d/1AWaSDerHw_D2jv64LoDjY9oQH7QFHZxg_DHghqXy5Iw/edit?usp=sharing) |
+| Lab 4 | [View](https://docs.google.com/document/d/1hNBc_HnEpIDtXhB32e8D4A54Aoc28sRHZjLxWdNIHJU/edit?usp=sharing) |
+| Lab 5 | [View](#) |
 
 ---
 
@@ -57,6 +56,6 @@ Email : nattapong.g@kkumail.com
 
 ## 👤 Author
 
-**Name:** นายณัฐพงศ์ กรรณิกา  
+**Name:** นายณัฐพงศ์ กรธนกิจ  
 **Student ID:** 673380038-9  
 **Email:** nattapong.g@kkumail.com
