@@ -39,7 +39,7 @@ Email : nattapong.g@kkumail.com
 
 | Lab | Document Link | PDF File |
 |-----|--------------|----------|
-| Lab 1 | [View](#) | [PDF](#) |
+| Lab 1 | [View](https://docs.google.com/document/d/1DwWLAxHNynNA5J4AkVxALZkkimt_xLyojNH5TJPcgrA/edit?usp=sharing) | [PDF](#) |
 | Lab 2 | [View](#) | [PDF](#) |
 | Lab 3 | [View](#) | [PDF](#) |
 | Lab 4 | [View](#) | [PDF](#) |
