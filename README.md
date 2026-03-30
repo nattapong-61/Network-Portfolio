@@ -34,7 +34,7 @@ https://drive.google.com/drive/folders/1i_OhlgE11zJG3P4IjCNy8UzWbME6L5KD?usp=sha
 | Lab 2 | [View](https://docs.google.com/document/d/18n95qmyW5_QKc7J47pIzR779M92ajxv-LmiuJoqeS54/edit?usp=sharing) |
 | Lab 3 | [View](https://docs.google.com/document/d/1AWaSDerHw_D2jv64LoDjY9oQH7QFHZxg_DHghqXy5Iw/edit?usp=sharing) |
 | Lab 4 | [View](https://docs.google.com/document/d/1hNBc_HnEpIDtXhB32e8D4A54Aoc28sRHZjLxWdNIHJU/edit?usp=sharing) |
-| Lab 5 | [View](#) |
+| Lab 5 | [View](https://docs.google.com/document/d/1gQza0K74aVZ1GQiS_060VmBeDxAKO839r85WDEqKI3I/edit?usp=sharing) |
 
 ---
 
