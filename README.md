@@ -3,10 +3,15 @@
 
 Email : nattapong.g@kkumail.com
 
-# 🌐 Network Portfolio
+## 🌐 Network Portfolio
 
 > This portfolio showcases my work in Computer Networks and Network Programming.
 
+---
+
+## 💻 Network Programming (Week 1–10)
+* [File Week 1-10](./Personal%20Week1-10/)
+* [Result Week1-10](./Personal%20Week1-10/ผลการรันของweek1-10)
 ---
 
 ## 🚀 Final Project
