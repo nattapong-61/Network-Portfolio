@@ -49,6 +49,11 @@ https://drive.google.com/drive/folders/1i_OhlgE11zJG3P4IjCNy8UzWbME6L5KD?usp=sha
 
 ![Certificate](certificate.png)
 
+---
+
+## 📊 GradeBook
+
+<img width="1858" height="727" alt="image" src="https://github.com/user-attachments/assets/f743a353-cfb7-4e06-9518-20770171155d" />
 
 ---
 
@@ -57,3 +62,4 @@ https://drive.google.com/drive/folders/1i_OhlgE11zJG3P4IjCNy8UzWbME6L5KD?usp=sha
 **Name:** นายณัฐพงศ์ กรธนกิจ  
 **Student ID:** 673380038-9  
 **Email:** nattapong.g@kkumail.com
+
