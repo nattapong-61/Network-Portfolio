@@ -10,8 +10,8 @@ Email : nattapong.g@kkumail.com
 ---
 
 ## 💻 Network Programming (Week 1–10)
-* [File Week 1-10](./Personal%20Week1-10/)
-* [Result Week1-10](./Personal%20Week1-10/ผลการรันของweek1-10)
+* 📂 [Source Code (ไฟล์ .py)](./Personal%20Week1-10/)
+* 📊 [Result Screenshots (ไฟล์ .pdf)](./Result%20Week1-10/)
 ---
 
 ## 🚀 Final Project
