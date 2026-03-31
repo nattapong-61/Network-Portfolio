@@ -53,8 +53,7 @@ https://drive.google.com/drive/folders/1i_OhlgE11zJG3P4IjCNy8UzWbME6L5KD?usp=sha
 
 ## 📊 GradeBook
 
-<img width="1858" height="727" alt="image" src="https://github.com/user-attachments/assets/f743a353-cfb7-4e06-9518-20770171155d" />
-
+![Gradebook](Gradebook)
 ---
 
 ## 👤 Author
